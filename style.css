@@ -1,0 +1,16 @@
+h1{
+    font-size: 60px;
+    color: aqua;
+    border: 5px solid blueviolet;
+    background-color: cornsilk;
+    margin-left: 50px;
+    width: 50%;
+    height: 350px;
+}
+.test2{
+    color: orangered;
+    border: 5px dashed black;
+    border-radius: 50px;
+    padding: 50px;
+    @media (min.width: 700px) and (orientation:landscape)
+}
